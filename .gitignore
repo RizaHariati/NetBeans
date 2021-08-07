@@ -1,0 +1,12 @@
+/2_Calculator/nbproject/private/
+/2_Calculator/build/
+/2_Calculator/dist/
+
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
